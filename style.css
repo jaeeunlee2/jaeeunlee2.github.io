@@ -1,0 +1,25 @@
+.p {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+    justify-content: center;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 160px;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    text-align: center;
+}
+
+.row {
+    color: yellowgreen;
+}
